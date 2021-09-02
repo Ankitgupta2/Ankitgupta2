@@ -6,7 +6,7 @@
 
 ### How to reach me : <strong>(Click the badge to view my profiles)</strong>
 
-<img src="https://img.shields.io/badge/ankitgupta96572@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ankitgupta96572@gmail.com"><a href="https://www.linkedin.com/in/yashika20007/"><img src="https://img.shields.io/badge/Yashika Gupta-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<img src="https://img.shields.io/badge/ankitgupta96572@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ankitgupta96572@gmail.com"><a href="https://www.linkedin.com/in/ankit-gupta-499a46136/"><img src="https://img.shields.io/badge/Ankit Gupta-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 ### Here are some ideas to help you get started : 
 
